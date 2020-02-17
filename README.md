@@ -3,7 +3,7 @@
 Generate edl files with timings for intro and outro for kodi with manual input
 
 This is just a command line python script to generate edl files when you know how long the intro and outro are in a series
-It can be run by from terminal and will take as input file seconds(To skip for intro) seconds(To skip for outro) > 
+It can be run from terminal and will take as inputfile seconds(To skip for intro) seconds(To skip for outro) > 
 
 # example
 
