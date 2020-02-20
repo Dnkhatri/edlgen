@@ -11,7 +11,7 @@ It can be run from terminal and will take as inputfile seconds(To skip for intro
 
 or this for all mp4 files in a directory
 
-for i in *.mp4; do edlgen.py "$i" 30 70 >"${i%.*}.edl"; done
+for i in 	&#42;.mp4; do edlgen.py "$i" 30 70 >"${i%.*}.edl"; done
 
 The script will read the total runtime of the video file and generate an edl as below with the 2608.48 being the total runtime of the video
 
