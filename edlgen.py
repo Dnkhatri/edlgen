@@ -22,5 +22,5 @@ outro = clip.duration - skip2
 
 
 print(00.00,    skip1,    3) 
-print(outro,    clip.duration,    3)
+print(outro,    (clip.duration - 5),    3)
         
